@@ -119,15 +119,3 @@ Each machine learning model is implemented in a separate script. You can run the
    ```
 
 Make sure to replace `"Filename.csv"` with the path to your dataset in each script.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions or find a bug, feel free to open an issue or create a pull request. Please follow the [contributing guidelines](CONTRIBUTING.md) when submitting any changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This README file provides a comprehensive guide to understanding, setting up, and running the different machine learning models in the repository. It ensures that anyone who clones the repository can easily get started with the code and understand the purpose of each section.
